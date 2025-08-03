@@ -1,0 +1,144 @@
+Food Name,Food Group,Cultural Suitability,Dietary Tags,Trimester 1,Trimester 2,Trimester 3,Anemia Friendly,Gestational Diabetes Friendly,Hypertension Friendly,Constipation Friendly,Morning Sickness Friendly,Heartburn Friendly,Energy (kcal per 100g),Protein (g per 100g),Iron (mg per 100g),Calcium (mg per 100g),Folate (µg per 100g),Vitamin C (mg per 100g),Vitamin A (IU per 100g),Magnesium (mg per 100g),Fiber (g per 100g),Omega-3 (g per 100g),DHA (g per 100g),Sodium (mg per 100g)
+Spinach,Leafy Greens,Indian,Vegetarian,1,1,1,No,No,Yes,No,No,No,264.0,12.7,3.5,928.0,52.0,36.0,16973.0,16.0,1.3,0.15,0.01,51.0
+Masoor Dal,Pulses,North Indian,"Vegetarian, Gluten-Free",0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,590.0,22.2,7.9,217.0,137.0,22.5,14924.0,63.0,2.1,0.25,0.0,83.0
+Almonds,Nuts,South Indian,"Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,292.0,16.0,5.3,884.0,59.0,26.2,11186.0,49.0,7.8,0.39,0.06,17.0
+Ragi,Cereals,Indian,Vegetarian,0,1,1,No,Yes,Yes,Yes,Yes,Yes,433.0,2.9,3.4,345.0,17.0,18.3,7732.0,187.0,14.0,0.16,0.02,32.0
+Sweet Potato,Vegetables,Indian,Vegan,1,1,1,Yes,No,Yes,Yes,Yes,Yes,444.0,11.0,8.4,842.0,97.0,40.5,12624.0,137.0,3.2,0.24,0.01,83.0
+Pumpkin Seeds,Seeds,Indian,"Vegan, Gluten-Free",0,1,1,Yes,Yes,Yes,No,Yes,Yes,308.0,10.3,4.9,923.0,190.0,40.0,5822.0,311.0,14.7,0.46,0.04,1.0
+Paneer,Dairy,North Indian,Vegetarian,1,1,1,No,Yes,Yes,Yes,No,Yes,103.0,10.5,13.9,749.0,21.0,32.7,3035.0,346.0,2.5,0.47,0.08,33.0
+Amla,Fruits,Indian,Vegan,0,1,1,Yes,Yes,Yes,Yes,Yes,No,373.0,16.5,12.6,34.0,163.0,45.7,14569.0,88.0,10.8,0.2,0.0,83.0
+Sesame Seeds,Seeds,South Indian,"Vegan, Gluten-Free",1,1,1,Yes,No,Yes,Yes,Yes,Yes,78.0,3.3,3.6,634.0,157.0,41.0,9873.0,81.0,13.3,0.29,0.02,85.0
+Dates,Fruits,Indian,"Vegan, Gluten-Free",0,1,1,No,Yes,Yes,Yes,Yes,Yes,228.0,20.5,6.3,939.0,154.0,6.2,12269.0,304.0,6.8,0.47,0.04,46.0
+Methi Leaves,Leafy Greens,North Indian,Vegetarian,1,1,1,Yes,Yes,Yes,No,Yes,Yes,374.0,5.7,1.1,123.0,58.0,5.4,2800.0,213.0,3.8,0.49,0.03,56.0
+Black Gram,Pulses,North Indian,"Vegetarian, Gluten-Free",0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,116.0,13.3,8.0,349.0,187.0,20.6,18458.0,322.0,14.8,0.13,0.02,28.0
+Cashew Nuts,Nuts,South Indian,"Vegan, Gluten-Free",1,1,1,No,No,Yes,Yes,No,Yes,345.0,1.4,2.7,438.0,131.0,18.2,12054.0,294.0,13.5,0.12,0.05,15.0
+Jowar,Cereals,Indian,Vegetarian,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,305.0,15.4,8.7,498.0,102.0,12.4,7007.0,276.0,10.6,0.24,0.05,71.0
+Carrot,Vegetables,Indian,Vegan,1,1,1,Yes,Yes,Yes,Yes,Yes,No,139.0,20.3,14.5,555.0,44.0,31.9,2421.0,259.0,14.1,0.26,0.1,83.0
+Sunflower Seeds,Seeds,Indian,"Vegan, Gluten-Free",0,1,1,No,Yes,Yes,No,Yes,Yes,388.0,24.3,6.0,350.0,121.0,5.6,19610.0,17.0,6.8,0.16,0.1,40.0
+Milk,Dairy,Indian,Vegetarian,1,1,1,Yes,No,Yes,Yes,Yes,Yes,178.0,21.2,11.0,414.0,73.0,0.9,4346.0,333.0,3.0,0.14,0.03,92.0
+Guava,Fruits,Indian,Vegan,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,27.0,13.4,0.8,278.0,9.0,42.2,2427.0,126.0,11.6,0.15,0.09,88.0
+Flax Seeds,Seeds,South Indian,"Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,Yes,485.0,4.8,6.8,518.0,50.0,39.5,9807.0,370.0,1.5,0.29,0.04,85.0
+Banana,Fruits,Indian,Vegan,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,292.0,5.8,5.6,147.0,5.0,5.5,16993.0,391.0,3.5,0.48,0.04,79.0
+Drumstick Leaves,Leafy Greens,South Indian,Vegetarian,1,1,1,Yes,No,Yes,No,Yes,Yes,182.0,14.0,9.0,230.0,116.0,29.9,15064.0,155.0,9.0,0.1,0.05,59.0
+Rajma,Pulses,North Indian,"Vegetarian, Gluten-Free",0,1,1,No,Yes,Yes,Yes,Yes,No,81.0,4.9,5.2,217.0,10.0,11.7,2832.0,229.0,7.0,0.2,0.1,60.0
+Walnuts,Nuts,Indian,"Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,551.0,6.9,12.0,386.0,146.0,43.4,6879.0,170.0,5.3,0.28,0.09,51.0
+Bajra,Cereals,North Indian,Vegetarian,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,585.0,6.1,10.6,720.0,191.0,42.3,13946.0,48.0,10.1,0.3,0.08,49.0
+Tomato,Vegetables,Indian,Vegan,1,1,1,No,No,Yes,Yes,No,Yes,216.0,23.7,3.9,809.0,121.0,1.5,12676.0,313.0,12.8,0.32,0.07,45.0
+Chia Seeds,Seeds,Indian,"Vegan, Gluten-Free",0,1,1,Yes,Yes,Yes,No,Yes,Yes,289.0,11.3,13.3,877.0,151.0,39.0,6313.0,157.0,8.1,0.16,0.01,23.0
+Curd,Dairy,Indian,Vegetarian,1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,525.0,11.6,1.1,610.0,76.0,16.6,6848.0,190.0,12.8,0.29,0.07,30.0
+Papaya,Fruits,Indian,Vegan,0,1,1,No,Yes,Yes,Yes,Yes,Yes,395.0,17.5,11.5,943.0,131.0,21.0,15196.0,311.0,8.5,0.2,0.1,56.0
+Poppy Seeds,Seeds,South Indian,"Vegan, Gluten-Free",1,1,1,Yes,No,Yes,Yes,Yes,No,480.0,22.4,12.6,402.0,41.0,46.5,2108.0,293.0,2.3,0.19,0.09,26.0
+Apple,Fruits,Indian,Vegan,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,454.0,2.2,2.8,762.0,173.0,3.2,19582.0,71.0,12.9,0.25,0.06,55.0
+Coriander Leaves,Leafy Greens,Indian,Vegetarian,1,1,1,No,Yes,Yes,No,No,Yes,355.0,5.2,5.9,428.0,27.0,45.5,14744.0,81.0,11.1,0.27,0.07,37.0
+Moong Dal,Pulses,North Indian,"Vegetarian, Gluten-Free",0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,193.0,2.8,9.8,761.0,6.0,38.7,16039.0,156.0,9.2,0.1,0.08,15.0
+Pistachios,Nuts,Indian,"Vegan, Gluten-Free",1,1,1,Yes,No,Yes,Yes,Yes,Yes,359.0,2.0,4.5,647.0,108.0,21.7,6665.0,111.0,7.8,0.18,0.1,28.0
+Wheat Flour,Cereals,Indian,Vegetarian,0,1,1,No,Yes,Yes,Yes,Yes,Yes,282.0,19.3,8.1,300.0,116.0,11.0,11372.0,289.0,13.9,0.34,0.01,99.0
+Beetroot,Vegetables,Indian,Vegan,1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,376.0,21.3,11.2,739.0,114.0,12.8,11676.0,14.0,4.3,0.44,0.02,41.0
+Watermelon Seeds,Seeds,Indian,"Vegan, Gluten-Free",0,1,1,Yes,Yes,Yes,No,Yes,No,470.0,17.2,2.6,42.0,171.0,47.5,17138.0,382.0,11.1,0.18,0.07,41.0
+Cheese,Dairy,Indian,Vegetarian,1,1,1,No,No,Yes,Yes,No,Yes,481.0,13.4,3.5,388.0,70.0,49.8,15435.0,282.0,10.3,0.31,0.09,83.0
+Orange,Fruits,Indian,Vegan,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,164.0,17.7,7.1,20.0,156.0,43.6,6564.0,66.0,1.2,0.06,0.08,94.0
+Chia Seeds,Seeds,Indian,"Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,485.0,21.6,3.7,106.0,31.0,31.0,11831.0,44.0,10.4,0.29,0.06,51.0
+Grapes,Fruits,Indian,Vegan,0,1,1,No,Yes,Yes,Yes,Yes,Yes,586.0,21.0,9.4,713.0,196.0,27.3,17536.0,380.0,10.2,0.34,0.01,60.0
+Amaranth,Leafy Greens,South Indian,Vegetarian,1,1,1,Yes,No,Yes,No,Yes,Yes,264.0,20.1,10.3,792.0,8.0,32.0,2068.0,193.0,6.8,0.04,0.04,87.0
+Horse Gram,Pulses,North Indian,"Vegetarian, Gluten-Free",0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,357.0,10.7,12.0,146.0,77.0,41.0,15821.0,352.0,14.3,0.26,0.06,3.0
+Hazelnuts,Nuts,Indian,"Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,No,76.0,3.1,8.0,865.0,89.0,32.4,10194.0,175.0,3.8,0.1,0.04,19.0
+Barley,Cereals,Indian,Vegetarian,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,409.0,4.8,14.9,722.0,30.0,25.2,4003.0,265.0,3.4,0.17,0.05,23.0
+Cucumber,Vegetables,Indian,Vegan,1,1,1,Yes,No,Yes,Yes,Yes,Yes,121.0,2.9,12.6,964.0,156.0,38.9,5904.0,283.0,4.9,0.31,0.0,78.0
+Sunflower Oil,Fats & Oils,Indian,"Vegan, Gluten-Free",0,1,1,No,Yes,Yes,No,Yes,Yes,196.0,22.4,10.7,49.0,66.0,49.3,18885.0,293.0,8.4,0.03,0.07,95.0
+Butter,Dairy,Indian,Vegetarian,1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,228.0,19.6,12.8,953.0,15.0,45.0,7103.0,348.0,10.0,0.36,0.08,27.0
+Lemon,Fruits,Indian,Vegan,0,1,1,Yes,Yes,Yes,Yes,Yes,Yes,251.0,4.8,7.5,819.0,165.0,22.7,3757.0,302.0,6.0,0.37,0.04,93.0
+Coconut,Fats & Oils,Indian,"Vegan, Gluten-Free",1,1,1,No,No,Yes,Yes,No,Yes,91.0,1.3,10.1,47.0,107.0,39.7,3833.0,111.0,3.3,0.29,0.04,9.0
+Cherries,Fruits,Indian,Vegan,0,1,1,Yes,Yes,Yes,Yes,Yes,No,103.0,5.8,1.9,287.0,88.0,26.9,14367.0,182.0,10.3,0.01,0.08,5.0
+Bengali Fruits 51,Vegetables,Indian,Vegetarian,0,1,1,Yes,No,Yes,Yes,Yes,No,130.0,19.7,11.1,263.0,134.0,29.9,12194.0,58.0,5.8,0.24,0.05,100.0
+North Indian Nuts 52,Seeds,North Indian,Dairy-Free,1,1,1,Yes,No,Yes,Yes,Yes,Yes,444.0,20.7,13.2,777.0,92.0,16.4,13857.0,144.0,6.5,0.24,0.08,21.0
+North Indian Cereals 53,Nuts,North Indian,"Gluten-Free, Vegan",0,1,1,Yes,No,Yes,Yes,No,No,533.0,13.2,13.7,433.0,144.0,22.1,19474.0,315.0,12.9,0.13,0.08,83.0
+North Indian Vegetables 54,Vegetables,Gujarati,"Vegetarian, Gluten-Free",0,1,1,No,No,Yes,Yes,No,No,343.0,21.0,1.4,609.0,78.0,7.4,19944.0,112.0,10.8,0.28,0.05,57.0
+Gujarati Nuts 55,Dairy,Gujarati,Dairy-Free,0,1,1,Yes,No,Yes,Yes,Yes,Yes,520.0,14.2,6.9,953.0,31.0,23.8,4553.0,179.0,14.8,0.45,0.1,72.0
+Indian Pulses 56,Nuts,Gujarati,Vegetarian,0,1,1,No,No,Yes,No,No,No,308.0,16.5,3.2,369.0,178.0,40.8,2991.0,68.0,1.2,0.49,0.03,85.0
+Gujarati Vegetables 57,Fruits,South Indian,Vegan,1,1,1,No,Yes,Yes,No,Yes,No,242.0,21.3,8.9,524.0,153.0,21.9,10280.0,200.0,12.0,0.41,0.04,7.0
+Gujarati Seeds 58,Dairy,Bengali,"Gluten-Free, Vegetarian",0,1,1,Yes,No,Yes,No,Yes,Yes,42.0,19.3,13.8,243.0,65.0,27.4,6663.0,284.0,14.2,0.35,0.03,58.0
+North Indian Leafy Greens 59,Pulses,South Indian,"Gluten-Free, Dairy-Free",1,1,1,No,No,Yes,Yes,No,No,522.0,24.2,2.7,119.0,188.0,11.8,15885.0,242.0,4.3,0.49,0.02,97.0
+North Indian Pulses 60,Cereals,Gujarati,Gluten-Free,1,1,1,Yes,Yes,Yes,No,No,No,528.0,2.4,13.3,105.0,156.0,14.2,10974.0,83.0,4.2,0.3,0.07,87.0
+Indian Cereals 61,Fats & Oils,North Indian,"Vegetarian, Vegan",0,1,1,No,No,Yes,Yes,Yes,Yes,78.0,1.0,11.9,930.0,51.0,28.2,1242.0,82.0,8.2,0.0,0.03,88.0
+Indian Leafy Greens 62,Pulses,Bengali,Vegan,0,1,1,No,No,Yes,No,No,Yes,365.0,12.1,10.1,865.0,38.0,2.9,3310.0,223.0,7.1,0.15,0.06,37.0
+Gujarati Leafy Greens 63,Vegetables,Indian,Vegan,0,1,1,Yes,Yes,Yes,No,Yes,Yes,574.0,3.4,3.2,680.0,58.0,8.7,7045.0,242.0,12.9,0.41,0.05,68.0
+North Indian Vegetables 64,Cereals,Bengali,"Gluten-Free, Vegetarian",1,1,1,Yes,No,Yes,Yes,Yes,No,507.0,22.2,9.2,930.0,126.0,46.9,18199.0,127.0,2.8,0.39,0.05,60.0
+South Indian Fats & Oils 65,Pulses,Gujarati,"Vegan, Gluten-Free",0,1,1,No,No,Yes,No,No,No,356.0,19.9,7.8,657.0,32.0,4.6,16581.0,241.0,14.0,0.37,0.02,43.0
+Indian Fruits 66,Vegetables,South Indian,Vegan,0,1,1,Yes,No,Yes,No,Yes,Yes,329.0,23.3,9.5,472.0,76.0,23.9,15195.0,78.0,1.1,0.04,0.09,67.0
+North Indian Fats & Oils 67,Seeds,North Indian,"Vegetarian, Vegan",1,1,1,Yes,No,Yes,Yes,No,Yes,406.0,21.2,3.0,356.0,199.0,5.0,7661.0,365.0,5.6,0.07,0.0,97.0
+North Indian Seeds 68,Pulses,North Indian,"Vegan, Dairy-Free",1,1,1,No,Yes,Yes,No,No,No,431.0,1.3,14.5,906.0,51.0,21.4,11548.0,31.0,3.7,0.0,0.04,60.0
+Gujarati Nuts 69,Pulses,Gujarati,"Vegetarian, Dairy-Free",1,1,1,Yes,Yes,Yes,No,Yes,No,25.0,19.1,6.5,39.0,59.0,25.2,14909.0,240.0,12.9,0.17,0.02,12.0
+Indian Pulses 70,Seeds,South Indian,"Dairy-Free, Vegan",1,1,1,Yes,No,Yes,No,No,Yes,470.0,12.8,2.0,415.0,97.0,9.3,15213.0,75.0,10.4,0.13,0.05,69.0
+South Indian Fruits 71,Fruits,Gujarati,Vegan,1,1,1,Yes,Yes,Yes,No,No,Yes,54.0,4.7,9.6,403.0,50.0,31.5,6872.0,356.0,12.0,0.21,0.01,38.0
+Bengali Pulses 72,Leafy Greens,North Indian,Gluten-Free,1,1,1,No,No,Yes,No,Yes,No,512.0,23.9,7.0,707.0,96.0,45.2,14725.0,376.0,7.8,0.03,0.0,70.0
+Indian Seeds 73,Seeds,South Indian,Gluten-Free,0,1,1,Yes,No,Yes,No,Yes,No,405.0,16.8,13.6,565.0,129.0,1.6,5473.0,152.0,6.8,0.39,0.1,42.0
+Indian Fats & Oils 74,Leafy Greens,Indian,Dairy-Free,1,1,1,No,No,Yes,Yes,Yes,No,275.0,13.7,14.3,732.0,166.0,38.5,10618.0,124.0,13.9,0.45,0.07,69.0
+Indian Fruits 75,Dairy,Bengali,Vegetarian,0,1,1,No,No,Yes,Yes,No,Yes,95.0,22.2,1.1,679.0,55.0,27.3,6995.0,90.0,12.7,0.37,0.08,37.0
+Gujarati Leafy Greens 76,Fats & Oils,Gujarati,Vegan,1,1,1,Yes,No,Yes,Yes,No,Yes,592.0,11.8,10.3,923.0,200.0,36.5,8869.0,228.0,10.9,0.49,0.08,12.0
+South Indian Nuts 77,Pulses,Indian,Vegetarian,1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,477.0,17.0,9.8,633.0,176.0,28.3,11581.0,203.0,5.0,0.5,0.06,2.0
+South Indian Fruits 78,Vegetables,Bengali,Vegan,1,1,1,Yes,No,Yes,Yes,Yes,Yes,576.0,3.9,7.1,507.0,53.0,1.5,17553.0,212.0,5.6,0.15,0.03,47.0
+South Indian Pulses 79,Fats & Oils,Gujarati,Gluten-Free,0,1,1,Yes,No,Yes,No,Yes,No,88.0,16.0,5.1,974.0,94.0,29.4,18494.0,49.0,13.1,0.25,0.06,97.0
+Indian Pulses 80,Leafy Greens,North Indian,Gluten-Free,0,1,1,Yes,Yes,Yes,No,No,Yes,261.0,9.8,7.3,915.0,26.0,3.4,2908.0,60.0,5.3,0.39,0.04,87.0
+Indian Seeds 81,Dairy,Indian,Vegetarian,0,1,1,Yes,Yes,Yes,Yes,No,Yes,320.0,2.6,6.7,524.0,75.0,22.2,14723.0,233.0,12.7,0.28,0.09,53.0
+Indian Fruits 82,Fats & Oils,Indian,Gluten-Free,1,1,1,No,Yes,Yes,Yes,No,No,579.0,17.9,4.6,705.0,56.0,46.6,14933.0,281.0,4.8,0.08,0.01,10.0
+Bengali Pulses 83,Dairy,South Indian,Gluten-Free,1,1,1,Yes,No,Yes,No,No,No,545.0,9.8,14.8,628.0,51.0,2.5,17032.0,369.0,2.2,0.28,0.05,61.0
+Bengali Leafy Greens 84,Pulses,South Indian,Dairy-Free,1,1,1,Yes,Yes,Yes,No,Yes,Yes,491.0,22.7,0.7,673.0,164.0,49.3,18107.0,162.0,6.8,0.32,0.05,50.0
+South Indian Nuts 85,Fruits,Gujarati,"Vegan, Vegetarian",0,1,1,No,Yes,Yes,Yes,Yes,No,439.0,23.6,3.2,21.0,54.0,1.9,17617.0,206.0,11.4,0.31,0.1,39.0
+North Indian Dairy 86,Seeds,Indian,"Dairy-Free, Vegetarian",1,1,1,No,No,Yes,Yes,Yes,Yes,151.0,5.7,10.6,57.0,53.0,5.0,9491.0,164.0,12.8,0.04,0.06,18.0
+Indian Vegetables 87,Leafy Greens,South Indian,"Gluten-Free, Dairy-Free",1,1,1,No,No,Yes,Yes,Yes,Yes,113.0,21.7,12.3,676.0,69.0,48.0,11306.0,145.0,11.9,0.31,0.06,79.0
+Indian Leafy Greens 88,Vegetables,Bengali,"Vegetarian, Vegan",0,1,1,No,No,Yes,No,Yes,Yes,72.0,7.7,3.9,573.0,90.0,11.6,1587.0,21.0,1.9,0.05,0.03,43.0
+Indian Fruits 89,Leafy Greens,South Indian,Gluten-Free,0,1,1,Yes,Yes,Yes,Yes,No,Yes,498.0,22.4,6.2,434.0,28.0,14.9,3354.0,169.0,9.0,0.09,0.02,87.0
+Gujarati Fats & Oils 90,Fats & Oils,South Indian,"Vegetarian, Gluten-Free",1,1,1,No,Yes,Yes,No,Yes,Yes,526.0,5.0,11.4,239.0,35.0,34.4,8390.0,340.0,3.1,0.15,0.02,49.0
+North Indian Pulses 91,Nuts,Indian,Vegetarian,0,1,1,No,No,Yes,No,No,Yes,173.0,15.6,10.1,515.0,120.0,8.4,11348.0,156.0,11.2,0.37,0.02,38.0
+South Indian Nuts 92,Nuts,Indian,Dairy-Free,0,1,1,No,Yes,Yes,No,Yes,Yes,365.0,12.2,4.7,261.0,181.0,23.1,15073.0,115.0,6.8,0.41,0.08,3.0
+North Indian Nuts 93,Cereals,North Indian,"Vegetarian, Dairy-Free",0,1,1,Yes,Yes,Yes,No,No,Yes,100.0,21.1,11.8,729.0,25.0,40.1,1518.0,253.0,3.4,0.42,0.04,65.0
+South Indian Fats & Oils 94,Dairy,Gujarati,Vegetarian,1,1,1,Yes,No,Yes,No,Yes,Yes,140.0,7.8,8.1,154.0,89.0,45.2,1273.0,24.0,5.1,0.26,0.03,66.0
+Gujarati Pulses 95,Fruits,Gujarati,"Vegetarian, Gluten-Free",1,1,1,Yes,Yes,Yes,No,Yes,Yes,189.0,11.6,13.2,657.0,111.0,0.7,17436.0,126.0,6.8,0.37,0.06,5.0
+Indian Pulses 96,Pulses,North Indian,"Dairy-Free, Vegan",1,1,1,Yes,No,Yes,Yes,No,No,38.0,19.7,11.0,203.0,151.0,16.6,17274.0,341.0,9.3,0.33,0.08,6.0
+Bengali Fruits 97,Leafy Greens,Gujarati,"Gluten-Free, Dairy-Free",0,1,1,Yes,Yes,Yes,No,No,No,358.0,11.1,14.1,482.0,117.0,19.3,3306.0,293.0,14.2,0.29,0.1,89.0
+Gujarati Fruits 98,Vegetables,Bengali,"Gluten-Free, Vegan",0,1,1,Yes,No,Yes,Yes,Yes,No,47.0,12.7,1.2,857.0,187.0,7.6,319.0,208.0,3.5,0.26,0.06,1.0
+Gujarati Fruits 99,Leafy Greens,Indian,"Gluten-Free, Vegan",0,1,1,Yes,Yes,Yes,No,No,No,559.0,23.9,10.3,362.0,133.0,49.3,4643.0,213.0,14.6,0.38,0.08,92.0
+South Indian Seeds 100,Fats & Oils,Indian,"Gluten-Free, Dairy-Free",1,1,1,Yes,No,Yes,Yes,Yes,No,161.0,5.5,9.8,906.0,155.0,19.4,15003.0,217.0,7.1,0.06,0.04,82.0
+Spinach,Leafy Greens,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,489.75,20.41,6.21,340.56,252.87,68.17,649.49,369.33,12.01,0.41,0.73,64.54
+Masoor Dal,Pulses,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,323.0,19.05,5.18,984.34,259.35,79.53,3466.26,246.52,1.53,0.36,0.25,47.14
+Paneer,Dairy,Indian,"Vegetarian, Gluten-Free",0,1,1,No,Yes,No,No,No,,229.87,5.81,12.55,568.04,18.89,87.0,3979.15,258.67,18.35,0.42,0.26,31.46
+Sesame Seeds,Seeds,Indian,"Vegetarian, Vegan, Gluten-Free",0,0,1,Yes,Yes,No,Yes,No,,80.07,20.39,7.01,587.59,240.68,35.14,3422.04,138.31,4.11,0.04,0.02,54.94
+Ghee,Fats & Oils,Indian,"Vegetarian, Gluten-Free",1,1,1,No,No,No,No,No,,449.5,15.28,3.36,431.54,160.6,2.63,4683.67,125.12,11.62,0.96,0.6,60.73
+Jackfruit,Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,0,No,Yes,Yes,Yes,Yes,,154.48,1.43,7.12,586.5,13.26,43.96,1607.01,175.68,11.47,0.11,0.1,11.23
+Methi (Fenugreek Leaves),Leafy Greens,Indian,"Vegetarian, Vegan, Gluten-Free",0,0,1,Yes,Yes,Yes,Yes,No,,233.56,2.42,6.28,492.9,14.93,82.67,1278.65,91.99,15.35,0.54,0.76,94.2
+Almonds,Nuts,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,299.78,12.34,6.53,750.32,257.69,84.85,308.98,185.83,5.6,0.66,0.2,90.42
+Bajra (Pearl Millet),Cereals,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,88.27,17.0,12.82,498.52,82.93,31.8,4726.72,161.71,12.51,0.98,0.28,50.99
+Ragi (Finger Millet),Cereals,South Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,171.18,4.66,10.06,358.28,217.83,61.69,3452.09,188.29,9.43,0.98,0.98,49.18
+Moong Dal,Pulses,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,80.0,12.62,1.57,242.8,21.26,70.78,3562.49,159.91,16.63,0.29,0.67,8.83
+Rajma (Kidney Beans),Pulses,North Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,311.37,21.33,2.45,776.7,225.89,20.98,881.39,214.22,17.2,0.76,0.4,90.04
+Coconut Water,Beverage,South Indian,"Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,,324.83,9.29,0.95,930.55,54.32,80.86,4137.84,14.21,2.32,0.46,0.37,57.57
+Carrots,Vegetables,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,65.11,9.33,10.65,367.69,98.55,6.6,679.63,334.72,14.39,0.32,0.26,26.88
+Sweet Potato,Vegetables,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,440.14,1.31,0.16,475.11,277.04,48.19,361.29,319.17,13.48,0.35,0.3,41.38
+Turmeric,Spices,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,,464.01,21.65,3.68,529.57,132.9,35.47,181.77,308.73,13.05,0.8,0.3,68.98
+Beetroot,Vegetables,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,67.54,1.32,5.57,969.26,121.97,28.93,57.24,181.75,1.49,0.95,0.41,77.75
+Papaya (Ripe),Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,,245.38,7.78,1.41,967.59,168.45,57.55,959.31,44.34,0.19,0.19,0.59,24.99
+Dates,Dry Fruits,Middle Eastern,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,352.0,20.2,7.42,351.91,89.56,35.38,3135.94,238.65,16.36,0.35,0.12,83.73
+Dahi (Curd),Dairy,Indian,"Vegetarian, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,67.18,19.35,8.26,287.84,71.62,28.87,1328.83,220.54,13.48,0.92,0.59,68.04
+Mango,Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,No,Yes,No,Yes,No,,464.66,4.27,13.36,622.94,77.51,85.19,345.55,205.01,6.37,0.27,0.23,44.77
+Peanuts,Nuts,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,262.14,21.6,8.41,840.88,118.59,8.19,2592.44,18.71,16.36,0.5,0.22,97.86
+Tofu,Soy Products,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,326.59,17.91,10.1,410.11,36.26,18.8,4200.86,140.13,18.92,0.12,0.27,94.99
+Amla (Indian Gooseberry),Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,277.83,9.07,0.94,589.34,93.65,24.58,3662.12,129.66,19.86,0.93,0.84,42.52
+Bitter Gourd (Karela),Vegetables,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,,311.58,23.39,14.19,486.71,28.96,69.92,663.84,356.95,16.1,0.56,0.82,47.22
+Drumstick Leaves,Leafy Greens,South Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,160.97,3.08,6.28,16.0,222.76,87.61,1998.49,176.12,0.5,0.71,0.78,37.6
+Curry Leaves,Spices,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,110.91,5.54,1.2,198.66,181.9,46.04,4339.71,304.45,11.04,0.86,0.89,47.52
+Fox Nuts (Makhana),Seeds,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,265.22,14.39,9.03,68.07,228.8,38.29,877.58,270.71,0.59,0.35,0.77,93.66
+Black Chana,Pulses,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,Yes,266.11,5.18,12.18,825.28,71.82,22.8,1639.39,99.52,8.29,0.64,0.38,15.51
+Barley,Cereals,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,465.93,12.28,7.03,928.46,78.45,67.67,2228.84,232.53,16.15,1.0,0.98,77.28
+Chia Seeds,Seeds,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,264.67,15.56,6.63,141.89,55.06,63.05,513.45,40.73,4.73,0.08,0.84,94.94
+Gond (Edible Gum),Dry Fruits,Indian,"Vegetarian, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,336.3,16.89,13.62,871.72,61.71,68.46,2386.52,336.03,8.1,0.37,0.57,11.25
+Figs (Anjeer),Dry Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,178.63,19.45,13.55,579.97,189.71,58.71,3716.43,10.03,2.45,0.86,0.24,64.74
+Watermelon,Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,,257.12,18.26,2.15,572.39,174.62,49.45,2524.33,248.91,5.39,0.82,0.18,79.74
+Muskmelon,Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,,338.4,21.96,7.51,212.72,174.87,5.29,2705.36,41.72,8.61,0.42,0.08,25.32
+Lotus Seeds,Seeds,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,489.53,19.41,6.68,752.64,6.72,7.93,2086.18,125.15,13.28,0.34,0.54,63.45
+Sattu,Cereals,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,400.61,1.53,9.68,656.66,92.33,45.15,946.4,84.57,2.94,0.19,0.41,37.79
+Tamarind,Fruits,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,No,Yes,Yes,Yes,No,,357.19,5.98,10.89,354.16,103.14,22.73,3075.41,399.31,17.23,0.59,0.3,54.41
+Soya Chunks,Soy Products,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,181.43,12.83,11.18,21.17,124.93,4.49,2915.85,278.43,13.14,0.85,0.2,40.07
+Walnuts,Nuts,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,219.0,5.33,11.95,157.93,213.34,21.13,3436.43,359.99,7.71,0.72,0.01,87.26
+Black Sesame Seeds,Seeds,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,485.33,20.3,14.2,424.14,187.16,54.13,32.85,319.48,15.63,0.14,0.82,46.63
+Corn,Cereals,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,278.97,23.51,13.56,870.5,57.98,89.81,4474.76,38.83,18.05,0.09,0.87,38.7
+Green Peas,Vegetables,Indian,"Vegetarian, Vegan, Gluten-Free",1,1,1,Yes,Yes,Yes,Yes,No,,336.22,19.04,5.78,285.48,133.47,89.55,4997.9,87.13,18.27,0.77,0.25,33.81
